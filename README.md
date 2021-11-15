@@ -14,4 +14,5 @@ This is an entry level Black Jack game following the Pierian Data Complete Pytho
 ## Most recent update 11/14/2021 18:56
 First Project upload and completition
 Updated folder format and directory
+Uploaded final black jack code
 
