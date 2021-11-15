@@ -11,7 +11,7 @@ This is an entry level Tic-Tac-Toe gane after following the Pierian Data Complet
 ## Project 2 - Black Jack 
 This is an entry level Black Jack game following the Pierian Data Complete Python BootCamp.This project takes everything we learned before but adds object oriented programing to the mix. First Crack at OOP and I enjoyed it a bunch. I hope to use OOP whenever I get a chance in newer projects!  
 
-## Most recent update 11/14/2021 18:56
+## Most recent update 11/15/2021 18:30
 First Project upload and completition
 Updated folder format and directory
 Uploaded final black jack code
