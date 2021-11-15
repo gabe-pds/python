@@ -1,5 +1,5 @@
 # Python Projects
-This folder contains some projects I have completed using Python. These projects are currently pretty simple, but I hope to develop my understanding and progress into more intense projects eventually. My focus with Python would be to eventually begin developing my understanding and mastery of big data. 
+This folder contains some projects I have completed using Python. These projects are currently pretty simple, but I hope to develop my understanding and progress into more intense projects eventually. My goal with Python would be to eventually begin developing my understanding and mastery of big data. 
 
 
 
