@@ -16,7 +16,7 @@ I eventually plan on analyzing multiple news sources at once, but that will requ
   
 So far I've described the how, but not the why. The USA is currently divided and I wanted to get a better understanding of the news sources which are a primary factor towards casuing this divide. I hoped that my analysis could shed some insight on whether or not these news sources are putting out positive or negative messages for their readers. The media is mosts only source of information which makes me think they should be completely objective and neurtal on what information they are presenting. I hope this code helps me get a better understanding of the state of mind that the media comapnies are currently in. 
   
-main_websites = ['https://www.huffpost.com/', 'https://www.foxnews.com/','https://www.nbcnews.com/','https://www.dailymail.co.uk/ushome/index.html','https://www.theguardian.com/us','https://abcnews.go.com/','https://www.bbc.com/news']
+main_websites = ['https://www.huffpost.com/', 'https://www.foxnews.com/', 'https://www.nbcnews.com/', 'https://www.dailymail.co.uk/ushome/index.html', 'https://www.theguardian.com/us', 'https://abcnews.go.com/', 'https://www.bbc.com/news']
 
 ## Most recent update 12/5/2021 10:41
 First Project upload and completition
